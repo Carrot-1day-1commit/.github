@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=9oogle&fontSize=100)
 
-# 환영합니다! 9기 여러분 😃
+# <div align = 'center'> 환영합니다! 9기 여러분 😃 </div>
 ***
 
 ## <div align = 'center'> 해당 공간은 9기 당근 농사꾼들을 위해 만들었습니다! 👩‍🌾🧑‍🌾 </div>
@@ -46,7 +46,9 @@
   ***
 
 
+![programming](https://user-images.githubusercontent.com/75519839/155273124-2783c0ff-329c-4318-bce7-bc3b3e2eaaad.gif)
 
+이 곳에서 여러분의 코딩을 마음컷 해보세요 !! 👨🏻‍💻
   
 
   
