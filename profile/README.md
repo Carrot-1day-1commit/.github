@@ -64,11 +64,6 @@
 
  커밋하신 내역을 이런식으로 보실 수 있습니다!
   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godhin)](https://github.com/godhin/github-readme-stats)
-  
- 현재 당근들이 사용한 언어도 보실 수 있습니다!
-  
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
